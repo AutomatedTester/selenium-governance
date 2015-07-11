@@ -5,11 +5,12 @@ The Selenium project is a large that it can not, and must not, be run by a singl
 ## Project Committee
 
 The Selenium project has 5 people who, with the help of the Software Freedom Conservancy, will control the day to day running of the project.
+This will be any details above managing the code in the Selenium Github  organisation.
 
 The Project Committee will meet at least 6 times a year. Minutes from those
 meetings will be publicly available. This is to make sure that the project
-committee are regularly meeting and Module Owners and Module Peers can be aware
-of changes that are regularly happening.
+committee are regularly meeting and Module Owners and Module Peers can be
+ aware of changes that are regularly happening.
 
 The Project Committee are voted in if they meet the following criteria:
 * Only have a maximum of 2 people from the same company.
@@ -25,7 +26,7 @@ The Project Committee are voted in if they meet the following criteria:
     * Helping out on mailing lists when people have questions
     * Helping out on forums not directly associated with the Selenium Project. For example on https://stackoverflow.com
 
-The Project Committee tenure is to last for 24 months. At the end of this time the Project Committee members will need to re-elected to the post.
+The Project Committee tenure is to last for 12 (twelve) months. At the end of this time the Project Committee members will need to re-elected to the post.
 
 If a Project Committee member, during their tenure, does not meet any of the criteria above there will be a vote to replace that person.
 
@@ -33,9 +34,11 @@ If a Project Committee member, during their tenure, does not meet any of the cri
 
 Voting for new Project Committee members is done by Module Owners and Module Peers.
 
+The voting period will be open for a period of 2 (two) weeks at the end it will counted by the Software Freedom Conservancy. Once all votes have been counted the Software Freedom Conservancy will announce the new members of the Project Committee.
+
 ## Modules
 
-A module is, in the case of code, a piece of functionality, or in the case of non-code, an activity, with reasonably well-defined boundaries. (Some of the below explanation is code-focussed, but analogous points can be made for non-code.).
+A module is, in the case of code, a piece of functionality, or in the case of non-code, an activity, with reasonably well-defined boundaries. (Some of the below explanation is code-focused, but analogous points can be made for non-code.).
 
 ### Module Owners
 
