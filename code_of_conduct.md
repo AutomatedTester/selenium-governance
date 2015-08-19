@@ -27,4 +27,4 @@ If you believe someone is violating the code of conduct, we ask that you report 
  If you have solid ideas you want to experiment with, make a fork and see how it works.
 * **When we disagree, try to understand why**. Disagreements, both social and technical, happen all the time and Selenium is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of Selenium comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
-Origin text from [Speak Up! Project](http://speakup.io/coc.html) and [Django Code of Conduct](https://www.djangoproject.com/conduct/)
+Origin text from [Speak Up! Project](http://speakup.io/coc.html), [Django Code of Conduct](https://www.djangoproject.com/conduct/) and [Rust-Lang code of conduct](https://www.rust-lang.org/conduct.html)
